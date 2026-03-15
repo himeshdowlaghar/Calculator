@@ -1,1 +1,1 @@
-https://himeshdowlaghar.github.io/Calculator/
+https://himeshdowlaghar.github.io/basic-calculator-js/
